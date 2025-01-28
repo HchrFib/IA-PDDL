@@ -10,14 +10,14 @@ La idea básica de este problema es hacer una asignación de programadores a tar
 
 Para ejecutar el programa:
 
-1. Generar una instancia del problema: generará una instancia llamada "gen.pdll" dentro de la carpeta "test", Es decir, "tests/gen.pddl"
-
-`python3 python3 problemgenerator.py 2 3 1`
-
+1. Generar una instancia del problema: generará una instancia llamada "gen.pdll" dentro de la carpeta "test", Es decir, "tests/gen.pddl". Por ejemplo:
+``` 
+python3 python3 problemgenerator.py 2 3 1
+```
 - Si ejecutamos el programa de python sin parámetros mostrará instrucciones de uso.
 
 2. Para la ejecutar la instancia generada por el programa python, simplemente hacemos:
-
-`./run.sh gen`
-
+```
+./run.sh gen
+``` 
 Ejecutar el programa de python sin parámetros mostrará instrucciones de uso.
