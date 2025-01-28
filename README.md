@@ -12,7 +12,7 @@ Para ejecutar el programa:
 
 1. Generar una instancia del problema: generará una instancia llamada "gen.pdll" dentro de la carpeta "test", Es decir, "tests/gen.pddl". Por ejemplo:
 ``` 
-python3 python3 problemgenerator.py 2 3 1
+python3 problemgenerator.py 2 3 1
 ```
 - Si ejecutamos el programa de python sin parámetros mostrará instrucciones de uso.
 
