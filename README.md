@@ -19,7 +19,15 @@ python3 problemgenerator.py 2 3 1
 ```
 - Si ejecutamos el programa de python sin parámetros mostrará instrucciones de uso.
 
-2. Para la ejecutar la instancia generada por el programa python, simplemente hacemos:
+2. Permisos:
+
+```
+chmod +x run.sh
+chmod +x ./ff
+
+```
+
+4. Para la ejecutar la instancia generada por el programa python, simplemente hacemos:
 ```
 ./run.sh gen
 ``` 
