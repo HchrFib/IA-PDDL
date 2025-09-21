@@ -7,7 +7,7 @@
 La idea básica de este problema es hacer una asignación de programadores a tareas de manera automática siguiendo ciertos criterios. Este problema o similares pueden ser comunes en empresas y en algunos casos el tamañoo del problema es tan grande que algoritmos tradicionales no son lo suficientemente potentes para encontrar una solución en tiempo razonable. Más información: [Enunciado de la práctica](PracticaPlanificacion.pdf)
 ### Descarga:
 ``` 
-python3 problemgenerator.py 2 3 1
+git clone problemgenerator.py 2 3 1
 ```
 ### Ejecución
 
