@@ -4,7 +4,7 @@
 
 ### Descripción del problema
 
-La idea básica de este problema es hacer una asignación de programadores a tareas de manera automática siguiendo ciertos criterios. Este problema o similares pueden ser comunes en empresas y en algunos casos el tamañoo del problema es tan grande que algoritmos tradicionales no son lo suficientemente potentes para encontrar una solución en tiempo razonable. Más información: [Enunciado de la práctica](Doc/EnunciadoPlanificacion.pdf)
+La idea básica de este problema es hacer una asignación de programadores a tareas de manera automática siguiendo ciertos criterios. Este problema o similares pueden ser comunes en empresas y en algunos casos el tamañoo del problema es tan grande que algoritmos tradicionales no son lo suficientemente potentes para encontrar una solución en tiempo razonable. Más información: [Enunciado de la práctica](EnunciadoPlanificacion.pdf)
 
 ### Ejecución
 
